@@ -1,10 +1,9 @@
-21:01:19.091 INFO  AUTOMATION - Soy la condicion del parde
-21:01:20.634 INFO  AUTOMATION - Unavenged en la URL 1 
-21:01:23.588 INFO  AUTOMATION - Unavenged en la URL 2
-21:01:26.221 INFO  AUTOMATION - Devolviendo la URL
-21:01:28.007 INFO  AUTOMATION - Verification Url
-21:01:28.015 INFO  AUTOMATION - Soy la post condicion del parde
-21:01:28.106 INFO  AUTOMATION - Soy la condicion del parde
-21:01:28.165 INFO  AUTOMATION - Unavenged en la URL
-21:01:30.548 INFO  AUTOMATION - Verification Url
-21:01:30.548 INFO  AUTOMATION - Soy la post condicion del parde
+01:10:52.421 INFO  AUTOMATION - Soy la condicion del parde
+01:10:53.729 INFO  AUTOMATION - Navegando a la pagina
+01:10:54.096 INFO  AUTOMATION - Escribiendo el usuario
+01:10:54.126 INFO  AUTOMATION - Escribiendo el pasword del usuario
+01:10:54.134 INFO  AUTOMATION - clic en el login
+01:10:54.182 INFO  AUTOMATION - Haciendo clic en la primera imagen
+01:10:54.224 INFO  AUTOMATION - Haciendo clic en back to product page
+01:10:54.247 INFO  AUTOMATION - Verificando que regrese a la pagina de Shopping
+01:10:54.260 INFO  AUTOMATION - Soy la post condicion del parde

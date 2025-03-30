@@ -16,7 +16,8 @@ public class CustomOptions implements OptionsFactory {
                 .setContextOptions(createContextOptions())
                 .setHeadless(false)
                 .setBrowserName("chromium")
-                .setChannel("chrome");
+                .setChannel("chrome")
+                .setTestIdAttribute("data-test");
 
     }
 
@@ -26,7 +27,7 @@ public class CustomOptions implements OptionsFactory {
 
         return new BrowserType
                 .LaunchOptions()
-                .setSlowMo(1500)
+                //.setSlowMo(1500)
                 .setArgs(arguments);
     }
 
