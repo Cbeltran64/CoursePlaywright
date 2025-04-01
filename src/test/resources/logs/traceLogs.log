@@ -1,9 +1,7 @@
-01:10:52.421 INFO  AUTOMATION - Soy la condicion del parde
-01:10:53.729 INFO  AUTOMATION - Navegando a la pagina
-01:10:54.096 INFO  AUTOMATION - Escribiendo el usuario
-01:10:54.126 INFO  AUTOMATION - Escribiendo el pasword del usuario
-01:10:54.134 INFO  AUTOMATION - clic en el login
-01:10:54.182 INFO  AUTOMATION - Haciendo clic en la primera imagen
-01:10:54.224 INFO  AUTOMATION - Haciendo clic en back to product page
-01:10:54.247 INFO  AUTOMATION - Verificando que regrese a la pagina de Shopping
-01:10:54.260 INFO  AUTOMATION - Soy la post condicion del parde
+09:17:51.430 INFO  AUTOMATION - Soy la condicion del parde
+09:17:52.829 INFO  AUTOMATION - Navegando a la pagina
+09:17:53.187 INFO  AUTOMATION - Escribiendo el usuario
+09:17:53.225 INFO  AUTOMATION - Escribiendo el pasword del usuario
+09:17:53.233 INFO  AUTOMATION - clic en el login
+09:17:53.285 INFO  AUTOMATION - Haciendo clic en el boton de Add to Cart
+09:17:53.474 INFO  AUTOMATION - Soy la post condicion del parde
